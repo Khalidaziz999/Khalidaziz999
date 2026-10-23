@@ -1,17 +1,7 @@
-<!--
-  ╔══════════════════════════════════════════════════════════════╗
-  ║  KHALID AZIZ - Dashboard Style Profile README                ║
-  ║  White Theme | Animations | Dashboard Look                   ║
-  ║  ⚠️  Replace "khalidaziz" with your GitHub username           ║
-  ╚══════════════════════════════════════════════════════════════╝
--->
-
 <div align="center">
 
 <!-- Animated Header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,50:92FE9D,100:00C9FF&height=200&section=header&text=KHALID%20AZIZ&fontSize=80&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Cloud%20Architect%20%7C%20Cybersecurity%20Engineer%20%7C%20AI%20Integrator&descAlignY=65&descSize=18" width="100%" alt="Header"/>
-
-
 
 <br/>
 <!-- Status Badges -->
@@ -24,12 +14,11 @@
 <!-- Social Links -->
 <p>
   <a href="https://linkedin.com/in/khalid-aziz-a10762353"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/khalidaziz"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="mailto:khalid.aziz@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/Khalidaziz999"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:ka6299557@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 </div>
-
 
 ---
 
@@ -64,22 +53,27 @@
 
 <div align="center">
 
-### 🌩️ Cloud Platforms
+### 🌩️ Cloud & Virtualization
 <img src="https://skillicons.dev/icons?i=aws,azure,gcp,cloudflare&theme=light&perline=8" />
 
 ### 🐧 Systems & OS
 <img src="https://skillicons.dev/icons?i=linux,ubuntu,debian,bash&theme=light&perline=8" />
 
 ### 🔐 Cybersecurity & Networking
-<img src="https://skillicons.dev/icons?i=kali,git,wireshark&theme=light&perline=8" />
+<p align="center">
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firewalls-E25D1D?style=for-the-badge&logo=paloaltonetworks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nmap-002B36?style=for-the-badge&logo=freebsd&logoColor=white" />
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
+</p>
 
 ### 🚀 DevOps & Automation
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,ansible,githubactions,nginx,grafana,prometheus&theme=light&perline=8" />
 
 ### 💻 Programming & Scripting
-<img src="https://skillicons.dev/icons?i=python,go,bash,js,html,css&theme=light&perline=8" />
+<img src="https://skillicons.dev/icons?i=python,cpp,c,java,bash&theme=light&perline=8" />
 
-### 🗄️ Databases
+### 🗄️ Databases & Storage
 <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis&theme=light&perline=8" />
 
 </div>
@@ -96,15 +90,15 @@
       <img src="https://img.shields.io/badge/🔭_Working_On-Zero_Trust_Networks-00C9FF?style=for-the-badge&labelColor=ffffff" />
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/🌱_Learning-eBPF_+_K8s_Security-92FE9D?style=for-the-badge&labelColor=ffffff" />
+      <img src="https://img.shields.io/badge/🌱_Learning-Cloud_Security_+_Automation-92FE9D?style=for-the-badge&labelColor=ffffff" />
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://img.shields.io/badge/👯_Collaborate-Open_Source_Security-FF4B4B?style=for-the-badge&labelColor=ffffff" />
+      <img src="https://img.shields.io/badge/👯_Collaborate-Security_Audits-FF4B4B?style=for-the-badge&labelColor=ffffff" />
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/⚡_Fun_Fact-I_Break_Systems_Ethically-333333?style=for-the-badge&labelColor=ffffff" />
+      <img src="https://img.shields.io/badge/⚡_Philosophy-Secure_by_Design-333333?style=for-the-badge&labelColor=ffffff" />
     </td>
   </tr>
 </table>
@@ -113,14 +107,14 @@
 
 ---
 
-## 🏆 Certifications
+## 🏆 Key Competencies & Tracks
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/AWS-Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-<img src="https://img.shields.io/badge/CompTIA-Security%2B-FF0000?style=for-the-badge&logo=comptia&logoColor=white" />
-<img src="https://img.shields.io/badge/Cisco-CCNA-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux-LPIC_1%2F2-1793D1?style=for-the-badge&logo=linux&logoColor=white" />
+<img src="https://img.shields.io/badge/Cloud-Architecture_%26_Design-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/Security-Threat_Hunting-FF0000?style=for-the-badge&logo=hackthebox&logoColor=white" />
+<img src="https://img.shields.io/badge/Networks-Routing_%26_Switching-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-System_Administration-1793D1?style=for-the-badge&logo=linux&logoColor=white" />
 
 </div>
 
@@ -133,16 +127,16 @@
 <a href="https://linkedin.com/in/khalid-aziz-a10762353">
   <img src="https://img.shields.io/badge/LinkedIn-Khalid_Aziz-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://github.com/khalidaziz">
-  <img src="https://img.shields.io/badge/GitHub-khalidaziz-181717?style=for-the-badge&logo=github&logoColor=white" />
+<a href="https://github.com/Khalidaziz999">
+  <img src="https://img.shields.io/badge/GitHub-Khalidaziz999-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<a href="mailto:khalid.aziz@example.com">
-  <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<a href="mailto:khalidaziz070071@gmail.com">
+  <img src="https://img.shields.io/badge/Email-ka6299557@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=khalidaziz&label=👁️%20Profile%20Views&color=00C9FF&style=for-the-badge" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=Khalidaziz999&label=👁️%20Profile%20Views&color=00C9FF&style=for-the-badge" alt="Profile Views" />
 
 </div>
 
